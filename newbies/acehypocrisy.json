@@ -1,0 +1,16 @@
+{
+  "github-id": "1056013",
+  "pl": [
+	     "C",
+	     "C++",
+	     "Ruby"
+         ],
+  "os":[
+	     "Windows",
+	     "Arch"
+         ],
+  "ed": [
+	     "pluma",
+	     "vim"
+         ]
+}
